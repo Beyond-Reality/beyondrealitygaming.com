@@ -1,26 +1,14 @@
 ---
-title: "Adam Jensen"
+title: "Coming Soon"
 
 links:
   - icon: "twitter"
-    url: "#"
+    url: "https://twitter.com/BeyondRealityMC"
     title: "Twitter"
 
-  - icon: "facebook"
-    url: "#"
-    title: "Facebook"
-
-  - icon: "dribbble"
-    url: "#"
-    title: "Dribbble"
-
   - icon: "github"
-    url: "#"
+    url: "https://github.com/Beyond-Reality"
     title: "Github"
 
-  - icon: "envelope-o"
-    url: "#"
-    title: "Email"
-
 ---
-Security Chief &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this
+Beyond-Reality Classic 4 &nbsp;&bull;&nbsp; Beyond-Reality Divergence 2 &nbsp;&bull;&nbsp; Beyond-Reality FarScapes
