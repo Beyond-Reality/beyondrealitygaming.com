@@ -1,6 +1,8 @@
 ---
 title: "Coming Soon"
 
+https://github.com/Beyond-Reality/beyondrealitygaming.com/blob/master/user/pages/01.home/logo.png
+
 links:
   - icon: "twitter"
     url: "https://twitter.com/BeyondRealityMC"
