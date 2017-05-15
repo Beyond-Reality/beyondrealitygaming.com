@@ -22,7 +22,7 @@ visible: true
         </h2>
       </div>
       <div id="collapse1" class="panel-collapse collapse">
-        <div class="panel-body"><img src="https://beyond-reality.github.io/img/div/overworld.png" />
+        <div class="panel-body"><img src="img/overworld.png" />
 	    </div>
       </div>
     </div>
@@ -33,7 +33,7 @@ visible: true
         </h2>
       </div>
       <div id="collapse2" class="panel-collapse collapse">
-        <div class="panel-body"><img src="https://beyond-reality.github.io/img/div/nether.png" />
+        <div class="panel-body"><img src="img/nether.png" />
 	    </div>
       </div>
     </div>
@@ -44,7 +44,7 @@ visible: true
         </h2>
       </div>
       <div id="collapse3" class="panel-collapse collapse">
-        <div class="panel-body"><img src="https://beyond-reality.github.io/img/div/sparse.png" />
+        <div class="panel-body"><img src="img/sparse.png" />
 	    </div>
       </div>
     </div>
@@ -66,7 +66,7 @@ visible: true
         </h2>
       </div>
       <div id="collapse7" class="panel-collapse collapse">
-        <div class="panel-body"><img src="https://beyond-reality.github.io/img/div/basic.png" />
+        <div class="panel-body"><img src="img/basic.png" />
 	    </div>
       </div>
     </div>
@@ -77,7 +77,7 @@ visible: true
         </h2>
       </div>
       <div id="collapse8" class="panel-collapse collapse">
-        <div class="panel-body"><img src="https://beyond-reality.github.io/img/div/tech.png" />
+        <div class="panel-body"><img src="img/tech.png" />
 	    </div>
       </div>
     </div>
@@ -88,7 +88,7 @@ visible: true
         </h2>
       </div>
       <div id="collapse9" class="panel-collapse collapse">
-        <div class="panel-body"><img src="https://beyond-reality.github.io/img/div/Magic.png" />
+        <div class="panel-body"><img src="img/Magic.png" />
 	    </div>
       </div>
     </div>
@@ -99,7 +99,7 @@ visible: true
         </h2>
       </div>
       <div id="collapse10" class="panel-collapse collapse">
-        <div class="panel-body"><img src="https://beyond-reality.github.io/img/div/combined.png" />
+        <div class="panel-body"><img src="img/combined.png" />
 	    </div>
       </div>
     </div>

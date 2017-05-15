@@ -13,7 +13,7 @@ theme: learn2
         </h2>
       </div>
       <div id="collapse1" class="panel-collapse collapse">
-        <div class="panel-body"><img src="https://beyond-reality.github.io/img/br/overworld.png" />
+        <div class="panel-body"><img src="img/overworld.png" />
 	    </div>
       </div>
     </div>
@@ -24,7 +24,7 @@ theme: learn2
         </h2>
       </div>
       <div id="collapse2" class="panel-collapse collapse">
-        <div class="panel-body"><img src="https://beyond-reality.github.io/img/br/nether.png" />
+        <div class="panel-body"><img src="img/nether.png" />
 	    </div>
       </div>
     </div>
@@ -35,7 +35,7 @@ theme: learn2
         </h2>
       </div>
       <div id="collapse3" class="panel-collapse collapse">
-        <div class="panel-body"><img src="https://beyond-reality.github.io/img/br/end.png" />
+        <div class="panel-body"><img src="img/end.png" />
 	    </div>
       </div>
     </div>
@@ -46,7 +46,7 @@ theme: learn2
         </h2>
       </div>
       <div id="collapse4" class="panel-collapse collapse">
-        <div class="panel-body"><img src="https://beyond-reality.github.io/img/br/moon.png" />
+        <div class="panel-body"><img src="img/moon.png" />
 	    </div>
       </div>
     </div>
@@ -57,7 +57,7 @@ theme: learn2
         </h2>
       </div>
       <div id="collapse5" class="panel-collapse collapse">
-        <div class="panel-body"><img src="https://beyond-reality.github.io/img/br/mars.png" />
+        <div class="panel-body"><img src="img/mars.png" />
 	    </div>
       </div>
     </div>
@@ -68,7 +68,7 @@ theme: learn2
         </h2>
       </div>
       <div id="collapse6" class="panel-collapse collapse">
-        <div class="panel-body"><img src="https://beyond-reality.github.io/img/br/chart.png" />
+        <div class="panel-body"><img src="img/chart.png" />
 	    </div>
       </div>
     </div>
@@ -85,7 +85,7 @@ theme: learn2
         </h2>
       </div>
       <div id="collapse7" class="panel-collapse collapse">
-        <div class="panel-body"><img src="https://beyond-reality.github.io/img/br/bees/BeesBasics.png" />
+        <div class="panel-body"><img src="img/bees/BeesBasics.png" />
 	    </div>
       </div>
     </div>
@@ -96,7 +96,7 @@ theme: learn2
         </h2>
       </div>
       <div id="collapse8" class="panel-collapse collapse">
-        <div class="panel-body"><img src="https://beyond-reality.github.io/img/br//bees/BeesGems.png" />
+        <div class="panel-body"><img src="img/bees/BeesGems.png" />
 	    </div>
       </div>
     </div>
@@ -107,7 +107,7 @@ theme: learn2
         </h2>
       </div>
       <div id="collapse9" class="panel-collapse collapse">
-        <div class="panel-body"><img src="https://beyond-reality.github.io/img/br/bees/BeesOres.png" />
+        <div class="panel-body"><img src="img/bees/BeesOres.png" />
 	    </div>
       </div>
     </div>
@@ -118,7 +118,7 @@ theme: learn2
         </h2>
       </div>
       <div id="collapse10" class="panel-collapse collapse">
-        <div class="panel-body"><img src="https://beyond-reality.github.io/img/br/bees/PreciousMetalsandOre.png" />
+        <div class="panel-body"><img src="img/bees/PreciousMetalsandOre.png" />
 	    </div>
       </div>
     </div>
