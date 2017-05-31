@@ -4,6 +4,9 @@ published: true
 process:
     markdown: true
     twig: false
+routable: true
+cache_enable: true
+visible: true
 ---
 
 # Design and layout.
