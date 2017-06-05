@@ -5,7 +5,7 @@ process:
     twig: true
 theme: learn2
 content:
-    items: @self.siblings
+    items: @self.children
     order:
         by: date
         dir: desc
@@ -19,3 +19,9 @@ content:
 <h2>{{ p.title }}</h2>
 {{ p.summary }}
 {% endfor %}
+
+<ul>
+{% for p in page.parent.children %}
+  <li>  {{ p.url }} </li>
+{% endfor %}
+</ul>
