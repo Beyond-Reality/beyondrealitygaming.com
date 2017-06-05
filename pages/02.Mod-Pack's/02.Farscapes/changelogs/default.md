@@ -26,7 +26,7 @@ content:
 {% for p in page.collection %}
     <tr>
       <td><a href="{{p.url}}">{{p.title}}</a></td>
-      <td>{{p.summary}}</td>
+      <td style="font-size:1em!important">{{p.summary}}</td>
     </tr>
 {% endfor %}
   </tbody>
