@@ -15,13 +15,19 @@ content:
 
 ## Beyond-Reality: Farscapes Versions
 
+<table>
+  <thead>
+    <tr>
+      <th>Version</th>
+      <th>Summary</th>
+    </tr>
+  </thead>
+  <tbody>
 {% for p in page.collection %}
-<h2>{{ p.title }}</h2>
-{{ p.summary }}
+    <tr>
+      <td><a href="{{p.url}}">{{p.title}}</a></td>
+      <td>{{p.summary}}</td>
+    </tr>
 {% endfor %}
-
-<ul>
-{% for p in page.parent.children %}
-  <li>  {{ p.url }} </li>
-{% endfor %}
-</ul>
+  </tbody>
+</table>
