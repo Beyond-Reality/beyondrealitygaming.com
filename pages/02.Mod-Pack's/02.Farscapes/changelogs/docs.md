@@ -5,7 +5,7 @@ process:
     twig: true
 theme: learn2
 content:
-    items: @self.children
+    items: @self.siblings
     order:
         by: date
         dir: desc
