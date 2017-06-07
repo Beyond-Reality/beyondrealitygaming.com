@@ -1,11 +1,13 @@
 ---
-title: Change Logs
+title: 'Change Logs'
 process:
     markdown: true
     twig: true
+child_type: docs
+visible: true
 theme: learn2
 content:
-    items: @self.children
+    items: '@self.children'
     order:
         by: date
         dir: desc
